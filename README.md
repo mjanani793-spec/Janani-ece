@@ -27,7 +27,7 @@
 
 ---
 
-## 📚 Currently Building (Summer 2025)
+## 📚 Currently Building (Summer 2026)
 
 - ✅ C Programming for Embedded Systems — 90-day roadmap
 - 🔄 Arduino & Tinkercad beginner simulations
